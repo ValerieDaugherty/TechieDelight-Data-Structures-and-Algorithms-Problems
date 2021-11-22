@@ -1,0 +1,1 @@
+this repo is for collecting my solutions to the data structure and algorithm problems (currently) found here: https://www.techiedelight.com/data-structures-and-algorithms-problems/
