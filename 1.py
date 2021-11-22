@@ -28,4 +28,4 @@ print("Find {0} in {1}:\n".format(target1, nums1))
 print("Pairs: {0}".format(process(sample(nums1, k=len(nums1)), target1)))
 
 print("Find {0} in {1}:\n".format(target2, nums2))
-print("Pairs: {0}".format(process(sample(nums2, k=len(nums1)), target2)))
+print("Pairs: {0}".format(process(sample(nums2, k=len(nums2)), target2)))
